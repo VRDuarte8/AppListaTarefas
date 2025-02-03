@@ -11,4 +11,5 @@
   <li>PHP</li>
   <li>Bootstrap</li>
   <li>Apache</li>
+  <li>MySQL</li>
 </ul>
